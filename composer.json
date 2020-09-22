@@ -12,6 +12,11 @@
             "email": "dasuntharangaflash@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "Dasundev\\BeautifulIdGenerator\\": "packages/dasundev/beautiful-id-generator/src"
+        }
+    },
     "minimum-stability": "stable",
     "require": {}
 }
