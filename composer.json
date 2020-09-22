@@ -1,6 +1,6 @@
 {
     "name": "dasundev/beautiful-id-generator",
-    "description": "This is PHP unique id generator package",
+    "description": "This is a PHP unique id generator package",
     "license": "MIT",
     "keywords": [
         "unique id",
@@ -12,6 +12,6 @@
             "email": "dasuntharangaflash@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {}
 }
